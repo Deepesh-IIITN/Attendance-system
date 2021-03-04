@@ -1,2 +1,2 @@
 # Attendance-system
-watch the video to check how will it work.
+watch the video (given above) to check how will it work.
